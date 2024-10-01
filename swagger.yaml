@@ -3,7 +3,7 @@ info:
   title: JOBS-API
   version: 1.0.0
 servers:
-  - url: https://jobs-api-render-tyag.onrender.com/
+  - url: https://jobs-api-render-tyag.onrender.com/api/v1
 components:
   securitySchemes:
     bearerAuth:
